@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#12c2e9</color>
+    <color name="colorPrimaryDark">#12c2e9</color>
+    <color name="colorAccent">#12c2e9</color>
+    <color name="dividerColor">#12c2e9</color>
+    <color name="lightGrey">#ededed</color>
+    <color name="darkGrey">#808080</color>
+    <color name="mainColour">#12c2e9</color>
+    <color name="colour">#FFFFFF</color>
+    <color name="darkerMain">#075b70</color>
+</resources>
